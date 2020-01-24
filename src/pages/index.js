@@ -1,11 +1,9 @@
 import React from 'react';
-import { Link } from 'gatsby';
 
 import Layout from '../components/layout';
-import Footer from '../components/Footer';
-import pic1 from '../images/pic01.jpg';
-import pic2 from '../images/pic02.jpg';
-import pic3 from '../images/pic03.jpg';
+import nelson from '../images/nelson.jpg';
+import james from '../images/james.jpg';
+import donovan from '../images/donovan.jpg';
 import Sidebar from '../components/Sidebar';
 import Scroll from '../components/Scroll';
 
@@ -16,13 +14,9 @@ const IndexPage = () => (
     <div id="wrapper">
       <section id="intro" className="wrapper style1 fullscreen fade-up">
         <div className="inner">
-          <h1>Hyperspace</h1>
+          <h1>See The Color</h1>
           <p>
-            Just another fine responsive site template designed by{' '}
-            <a href="http://html5up.net">HTML5 UP</a>
-            <br />
-            and released for free under the{' '}
-            <a href="http://html5up.net/license">Creative Commons</a>.
+            Here to add diversty, inclusion, and fun to your camp!
           </p>
           <ul className="actions">
             <li>
@@ -35,216 +29,108 @@ const IndexPage = () => (
           </ul>
         </div>
       </section>
-
-      <section id="one" className="wrapper style2 spotlights">
-        <section>
-          <a href="/#" className="image" alt="image">
-            <img src={pic1} alt="" data-position="center center" />
-          </a>
-          <div className="content">
-            <div className="inner">
-              <h2>Sed ipsum dolor</h2>
-              <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
-              </p>
-              <ul className="actions">
-                <li>
-                  <Link className="button" to="/generic">
-                    Learn more
-                  </Link>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </section>
-        <section>
-          <a href="/#" className="image">
-            <img src={pic2} alt="" data-position="top center" />
-          </a>
-          <div className="content">
-            <div className="inner">
-              <h2>Feugiat consequat</h2>
-              <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
-              </p>
-              <ul className="actions">
-                <li>
-                  <Link className="button" to="/generic">
-                    Learn more
-                  </Link>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </section>
-        <section>
-          <a href="/#" className="image">
-            <img src={pic3} alt="" data-position="25% 25%" />
-          </a>
-          <div className="content">
-            <div className="inner">
-              <h2>Ultricies aliquam</h2>
-              <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
-              </p>
-              <ul className="actions">
-                <li>
-                  <Link className="button" to="/generic">
-                    Learn more
-                  </Link>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </section>
-      </section>
-
-      <section id="two" className="wrapper style3 fade-up">
+      <section id="one" className="wrapper style3 fade-up">
         <div className="inner">
-          <h2>What we do</h2>
-          <p>
-            Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
-            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
-            imperdiet est velit quis lorem.
-          </p>
-          <div className="features">
-            <section>
-              <span className="icon major fa-code" />
-              <h3>Lorem ipsum amet</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span className="icon major fa-lock" />
-              <h3>Aliquam sed nullam</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span className="icon major fa-cog" />
-              <h3>Sed erat ullam corper</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span className="icon major fa-desktop" />
-              <h3>Veroeros quis lorem</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span className="icon major fa-chain" />
-              <h3>Urna quis bibendum</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span className="icon major fa-diamond" />
-              <h3>Aliquam urna dapibus</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
+        <h1>About</h1>
+        <h3>Who we are:</h3>
+        <p>See The Color Consulting LLC, is a diversity and inclusion consulting group specializing in strategic planning, training, public speaking, management, and recruitment. We serve youth development organizations in the US and abroad. STC helps organizations create diversity through community partnerships, targeted recruiting, and creative training. Our method is thorough and leaves your organization with sustainable practices to continue to diversify your staff and customer base.</p>
+
+        <h3> Our Mission:</h3>
+        <p>We  are committed to working with our clients to develop solutions for their diversity needs. We understand that creating programs that work for many different demographics is difficult. Our team wants to use our many years of experience in the camp and childcare industry to make your team more inclusive to all!</p>
+
+        <ul>
+A few benefits from improving organizational diversity:
+          <li>1. Increased community involvement</li>
+          <li>2. Increased customer base</li>
+          <li>3. Unique experience for staff and customers</li>
+        </ul>
+
+        <p>We at STC believe that summer camp is a place where individuals from all walks of life should be able to learn how to be independant, work with others, and how to be their true selves.
+
+We look forward to working with you and developing the foundation for diversity at your organization!</p>
           </div>
-          <ul className="actions">
-            <li>
-              <Link className="button" to="/generic">
-                Learn more
-              </Link>
-            </li>
-          </ul>
-        </div>
       </section>
 
-      <section id="three" className="wrapper style1 fade-up">
+      <section id="two" className="wrapper style2 spotlights">
+        <section>
+            <img src={nelson} alt=""  />
+          <div className="content">
+            <div className="inner">
+              <h2>Nelson Strickland</h2>
+              <p>
+                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.
+              </p>
+            </div>
+          </div>
+        </section>
+        <section>
+            <img src={james} alt=""  />
+          <div className="content">
+            <div className="inner">
+              <h2>James Brooker</h2>
+              <p>
+                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.
+              </p>
+            </div>
+          </div>
+        </section>
+        <section>
+            <img src={donovan} alt="" />
+          <div className="content">
+            <div className="inner">
+              <h2>Donovan Andrews</h2>
+              <p>
+                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.
+              </p>
+            </div>
+          </div>
+        </section>
+      </section>
+
+      <section id="three" className="wrapper style3 fade-up">
+        <div className="inner">
+          <h1>Service Overview</h1>
+          <p>
+          <p>Our team can help you recruit and hire diverse staff members. We use a three part approach.</p>
+          <ul>
+            <li><h3>1. Public Speaking:</h3>With our combined 35+ years in the camping industry, we've accumulated a wealth of knowledge regarding racial interaction in the camp world. We've taken our experiences and research and transformed this information into various presentations that are both accessible and engaging. Providing camp professionals with practical means of creating a more inclusive and welcoming camp environment for their lesser represented participants. With a wide range of topics including staff recruitment, camp culture, and year-round community engagement we will give you the tools needed to create a well rounded diverse program.</li>
+            <br/>
+            <li><h3>2. Trainings and Workshops:</h3> With our workshops, we bring our presentations to life. We come prepared with interactive programming that gives participants a scope into seeing camp from an often unfamiliar lens. Through our use of engaging role-playing scenarios, lessons, and professionals panels with first-hand experience of what it's like to be a minority at one of the happiest places on earth. Our workshops leave participants with the information and confidence needed to ask all of the right questions and make even better changes.</li>
+            <br/>
+            <li><h3>3. Consulting:</h3> Sometimes, even with all the right information, it's still hard to know what the right plan of action is needed to create the change we're looking for. We get that! Let us help guide you through those difficult decisions. With both virtual and in-person consultations, we'll provide tangible action steps that are personalized to your unique program to improve the quality of experience you provide for the multi-cultural members of your camp family.</li>
+          </ul>
+          <p>Most of our contracts take place over two years. We are patient and thorough and our work lasts for the lifetime of your organization.  Once we know more about your needs, we can customize a plan that makes the most sense for your organization.</p>
+          </p>
+          </div>
+      </section>
+
+      <section id="four" className="wrapper style1 fade-up">
         <div className="inner">
           <h2>Get in touch</h2>
           <p>
-            Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
-            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
-            imperdiet est velit quis lorem.
+          If you have any questions or would like a consultation, you can reach us through the contact info bellow!
           </p>
           <div className="split style1">
-            <section>
-              <form method="post" action="#">
-                <div className="fields">
-                  <div className="field half">
-                    <label for="name">Name</label>
-                    <input type="text" name="name" id="name" />
-                  </div>
-                  <div className="field half">
-                    <label for="email">Email</label>
-                    <input type="text" name="email" id="email" />
-                  </div>
-                  <div className="field">
-                    <label for="message">Message</label>
-                    <textarea name="message" id="message" rows="5" />
-                  </div>
-                </div>
-                <ul className="actions">
-                  <li>
-                    <a href="/#" className="button submit">
-                      Send Message
-                    </a>
-                  </li>
-                </ul>
-              </form>
-            </section>
+          
             <section>
               <ul className="contact">
                 <li>
-                  <h3>Address</h3>
-                  <span>
-                    12345 Somewhere Road #654
-                    <br />
-                    Nashville, TN 00000-0000
-                    <br />
-                    USA
-                  </span>
-                </li>
-                <li>
                   <h3>Email</h3>
-                  <a href="/#">user@untitled.tld</a>
+                  <a href="/#">seethecolorllc@gmail.com</a>
                 </li>
-                <li>
-                  <h3>Phone</h3>
-                  <span>(000) 000-0000</span>
-                </li>
-                <li>
+
+               {/*<li>
                   <h3>Social</h3>
                   <ul className="icons">
                     <li>
-                      <a href="/#" className="fa-twitter">
-                        <span className="label">Twitter</span>
-                      </a>
-                    </li>
-                    <li>
                       <a href="/#" className="fa-facebook">
                         <span className="label">Facebook</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="/#" className="fa-github">
-                        <span className="label">GitHub</span>
                       </a>
                     </li>
                     <li>
@@ -253,20 +139,18 @@ const IndexPage = () => (
                       </a>
                     </li>
                     <li>
-                      <a href="/#" className="fa-linkedin">
-                        <span className="label">LinkedIn</span>
+                      <a href="/#" className="fa-youtube">
+                        <span className="label">Youtube</span>
                       </a>
-                    </li>
+                    </li> 
                   </ul>
-                </li>
+                </li>*/}
               </ul>
             </section>
           </div>
         </div>
       </section>
     </div>
-
-    <Footer />
   </Layout>
 );
 

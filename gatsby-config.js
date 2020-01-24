@@ -1,15 +1,18 @@
 module.exports = {
-  pathPrefix: `/gatsby-starter-hyperspace/`, // This path is subpath of your hosting https://domain/portfolio
+   // This path is subpath of your hosting https://domain/portfolio
   siteMetadata: {
-    title: 'Gatsby Starter Hyperspace',
+    title: 'See The Color',
+    image: 'src/images/stc.jpg',
+    url: 'https://seethecolor.org',
+    description: 'See the color is an orginization focused on incresing diversity in childcare facilities.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Hyperspace',
-        short_name: 'starter',
+        name: 'See The Color',
+        short_name: 'STC',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',

@@ -23,6 +23,7 @@
     }
 
     @include breakpoint('<=small') {
+      height: 55vh;
       font-size: 1em;
     }
   }
