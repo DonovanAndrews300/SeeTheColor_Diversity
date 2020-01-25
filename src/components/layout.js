@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
+import profile from '../images/stc.jpg'
 import { StaticQuery, graphql } from 'gatsby';
 
 import '../assets/sass/main.scss';
@@ -11,7 +12,6 @@ const Layout = ({ children }) => (
         site {
           siteMetadata {
             title
-            image
             url
             description
           }
@@ -25,7 +25,7 @@ const Layout = ({ children }) => (
           meta={[
             {name: 'og:description', content:data.site.siteMetadata.description},
             {name: 'og:title', content:data.site.siteMetadata.title},
-            {name: 'og:image', content:data.site.siteMetadata.image},
+            {name: 'og:image', content:profile},
             {name: 'og:url', content:data.site.siteMetadata.url},
 
           ]}
