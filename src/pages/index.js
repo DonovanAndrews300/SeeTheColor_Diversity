@@ -58,9 +58,8 @@ We look forward to working with you and developing the foundation for diversity 
             <div className="inner">
               <h2>Nelson Strickland</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
+              Nelson Strickland is a camp director and youth development consultant from Woodbury, NJ. Nelson has been involved in summer camp and youth development for over 15 years as a camper, counselor, unit leader, and camp director. He found his passion for working with unique populations at Dragonfly Forest, a Pennsylvania summer camp for children with autism and special medical conditions, where he went from one of the first campers to one of the Camp Directors. 
+              Nelson has been a camp director at Camp Tall Tree, a Michigan camp for children with autism and their siblings, Camp Kesem at Rowan University, and L.G. Cook 4H Camp. He is currently the Camp Director for the YMCA Camp Birkett, a Michigan day camp program. He recently launched See The Color, a summer camp consulting company focused on African-Americans in the camping industry. When Nelson is not running summer camps or helping others run quality youth programs, he enjoys dancing, DJing, and all things music.
               </p>
             </div>
           </div>
@@ -71,9 +70,8 @@ We look forward to working with you and developing the foundation for diversity 
             <div className="inner">
               <h2>James Brooker</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
+              James Brooker has been a part of the camp community in different capacities for 8+ years. In his current job, he works with children in the child welfare system in Philadelphia.
+               James is a Temple University alumni. His love for camp has a special place in his heart that can never be taken away. James' favorite thing about camp is knowing that no matter the location you can always create the magic.
               </p>
             </div>
           </div>
@@ -84,9 +82,7 @@ We look forward to working with you and developing the foundation for diversity 
             <div className="inner">
               <h2>Donovan Andrews</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
+              Donovan is an experienced camp professional who has worked in summer camp programs across the country. He has worked with children with multiple diagnoses (such as autism, sickle cell, and asthma) at camp, and has experience will all age ranges of campers. Donovan has also spent time tutoring middle school children in South Philadelphia. Donovan firmly believes in the power of curiosity and perseverance.
               </p>
             </div>
           </div>
