@@ -58,8 +58,7 @@ We look forward to working with you and developing the foundation for diversity 
             <div className="inner">
               <h2>Nelson Strickland</h2>
               <p>
-              Nelson Strickland is a camp director and youth development consultant from Woodbury, NJ. Nelson has been involved in summer camp and youth development for over 15 years as a camper, counselor, unit leader, and camp director. He found his passion for working with unique populations at Dragonfly Forest, a Pennsylvania summer camp for children with autism and special medical conditions, where he went from one of the first campers to one of the Camp Directors. 
-              Nelson has been a camp director at Camp Tall Tree, a Michigan camp for children with autism and their siblings, Camp Kesem at Rowan University, and L.G. Cook 4H Camp. He is currently the Camp Director for the YMCA Camp Birkett, a Michigan day camp program. He recently launched See The Color, a summer camp consulting company focused on African-Americans in the camping industry. When Nelson is not running summer camps or helping others run quality youth programs, he enjoys dancing, DJing, and all things music.
+              Nelson Strickland is a camp director and youth development consultant from Woodbury, NJ. Nelson has been involved in summer camp and youth development for over 15 years as a camper, counselor, unit leader, and camp director. Nelson has been a camp director at Camp Tall Tree, Camp Dragonfly Forest, Camp Kesem at Rowan University, and L.G. Cook 4H Camp. He is currently the Camp Director for the YMCA Camp Birkett, a Michigan day camp program. 
               </p>
             </div>
           </div>
@@ -110,7 +109,7 @@ We look forward to working with you and developing the foundation for diversity 
         <div className="inner">
           <h2>Get in touch</h2>
           <p>
-          If you have any questions or would like a consultation, you can reach us through the contact info bellow!
+          If you have any questions or would like a consultation, you can reach us through the contact info below!
           </p>
           <div className="split style1">
           
