@@ -4,7 +4,7 @@ module.exports = {
     title: 'See The Color',
     image: 'src/images/stc.jpg',
     url: 'https://seethecolor.org',
-    description: 'See the color is an orginization focused on incresing diversity in childcare facilities.',
+    description: 'See the color is an organization focused on increasing diversity in childcare facilities.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
